@@ -1,0 +1,24 @@
+{
+  "name": "skill-treasure-bot",
+  "version": "2.0.0",
+  "description": "High-low number guessing game for Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loren138/alexa-treasure-bot.git"
+  },
+  "keywords": [
+    "Alexa",
+    "game",
+    "skill"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/loren138/alexa-treasure-bot",
+  "dependencies": {
+    "ask-sdk": "^2.1.0"
+  }
+}
